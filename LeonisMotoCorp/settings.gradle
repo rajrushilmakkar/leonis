@@ -1,0 +1,2 @@
+rootProject.name='Leonis MotoCorp'
+include ':app'
